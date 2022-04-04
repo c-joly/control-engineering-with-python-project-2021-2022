@@ -13,13 +13,13 @@ All teams: [📝 google sheet](https://docs.google.com/spreadsheets/d/1zVxcBHFnb
 
 <!-- 🖥 Teams meeting URL: ❔ -->
 
-  - Student 1: ❔
+  - Student 1: MOI
 
-  - Student 2: ❔
+  - Student 2: MOI
 
-  - Student 3: ❔
+  - Student 3: MOI
 
-  - Student 4: ❔
+  - Student 4: MOI
 
 ## Getting Started
 
